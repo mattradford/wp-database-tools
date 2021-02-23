@@ -1,0 +1,13 @@
+{
+    "name": "mattradford/wp-database-tools",
+    "description": "GPL fork of WP Migrate DB Pro",
+    "require": {
+        "mattradford/wp-database-tools": "main"
+    },
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "git@github.com:mattradford/wp-database-tools"
+        }
+    ]
+}
