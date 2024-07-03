@@ -3,6 +3,6 @@
     "description": "GPL fork of WP Migrate DB Pro",
     "type": "wordpress-plugin",
     "require": {
-        "composer/installers": "~1.0"
+        "composer/installers": "^2.2.0"
     }
 }
